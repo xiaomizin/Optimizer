@@ -32,7 +32,7 @@ We recommend that all users create a restore point before using any function of 
 Absolutely, yes
 
 - *Do I need to leave the file open in the background?*
-No need, just activate the functions you want and restart the device
+No need, just activate the functions you want and restart the device.
 ## Authors
 
 - [@Gabriel Oliveira](https://github.com/xiaomizin)
